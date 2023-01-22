@@ -15,7 +15,7 @@ public class Week02HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Hellow World!");
+        System.out.print("Hello World!");
         // TODO code application logic here
     }
     
